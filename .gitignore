@@ -1,5 +1,6 @@
 # project specific
 *.tif
+!notebooks/output_SRTMGL3.tif
 
 # setuptools-scm
 version.py
